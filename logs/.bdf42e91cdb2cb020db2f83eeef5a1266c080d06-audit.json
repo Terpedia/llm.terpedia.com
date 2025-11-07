@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/danielmcshan/GitHub/llm.terpedia.com/logs/.bdf42e91cdb2cb020db2f83eeef5a1266c080d06-audit.json",
+    "files": [
+        {
+            "date": 1762555104265,
+            "name": "/Users/danielmcshan/GitHub/llm.terpedia.com/logs/mcp-puppeteer-2025-11-07.log",
+            "hash": "56c991c3969e344197a61981c425f2543a37e5b5181e91fb01a5053013a18a61"
+        }
+    ],
+    "hashType": "sha256"
+}

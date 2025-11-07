@@ -1,0 +1,19 @@
+{
+  "name": "llm-terpedia-com",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "lint": "eslint . --ext .ts"
+  },
+  "dependencies": {
+    "@vercel/node": "^3.2.7",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.8.1",
+    "eslint": "^9.12.0",
+    "typescript": "^5.6.3"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "functions": {
+    "api/**/*.ts": {
+      "runtime": "nodejs20.x"
+    }
+  },
+  "routes": [
+    {
+      "src": "/",
+      "methods": ["GET"],
+      "dest": "/api/info"
+    },
+    {
+      "src": "/responses",
+      "methods": ["POST"],
+      "dest": "/api/responses"
+    }
+  ]
+}

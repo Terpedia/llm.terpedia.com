@@ -1,0 +1,90 @@
+{
+  "project": {
+    "title": "",
+    "research_question": "",
+    "disciplines": [],
+    "keywords": [],
+    "hypotheses": []
+  },
+  "protocol": {
+    "registration": {
+      "registry": "",
+      "identifier": ""
+    },
+    "inclusion_criteria": {
+      "population": "",
+      "intervention_or_exposure": "",
+      "comparison": "",
+      "outcomes": "",
+      "study_designs": []
+    },
+    "exclusion_criteria": [],
+    "search_strategy": {
+      "databases": [],
+      "search_strings": [],
+      "date_range": {
+        "from": "",
+        "to": ""
+      },
+      "language_limits": []
+    },
+    "screening": {
+      "deduplication_method": "",
+      "screening_levels": [
+        {
+          "level": "title_abstract",
+          "reviewers": [],
+          "tooling": ""
+        },
+        {
+          "level": "full_text",
+          "reviewers": [],
+          "tooling": ""
+        }
+      ],
+      "conflict_resolution": ""
+    }
+  },
+  "data": {
+    "extraction_fields": [
+      "author",
+      "year",
+      "study_design",
+      "sample_size",
+      "effect_size",
+      "confidence_interval",
+      "covariates",
+      "notes"
+    ],
+    "quality_appraisal_tool": "",
+    "risk_of_bias_domains": []
+  },
+  "analysis_plan": {
+    "effect_metric": "",
+    "model": "random_effects",
+    "heterogeneity_tests": {
+      "chi_squared": true,
+      "i_squared": true,
+      "tau_squared": true
+    },
+    "subgroup_analyses": [],
+    "sensitivity_analyses": [],
+    "publication_bias_checks": [
+      "funnel_plot",
+      "eggers_test"
+    ],
+    "software": []
+  },
+  "reporting": {
+    "standards": [
+      "PRISMA"
+    ],
+    "visualizations": [
+      "prisma_flow_diagram",
+      "forest_plot",
+      "funnel_plot"
+    ],
+    "limitations_to_address": [],
+    "conclusion_focus": []
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "overview": {
+    "title": "",
+    "scope": "",
+    "audience": ""
+  },
+  "question": {
+    "primary": "",
+    "secondary": []
+  },
+  "search_plan": {
+    "databases": [],
+    "search_terms": [],
+    "date_range": {
+      "from": "",
+      "to": ""
+    },
+    "filters": {
+      "language": [],
+      "document_types": []
+    }
+  },
+  "selection": {
+    "inclusion_criteria": [],
+    "exclusion_criteria": [],
+    "screening_process": {
+      "tools": [],
+      "reviewers": []
+    }
+  },
+  "synthesis": {
+    "thematic_buckets": [],
+    "key_studies": [
+      {
+        "citation": "",
+        "contribution": "",
+        "methodology": "",
+        "strengths": "",
+        "limitations": ""
+      }
+    ],
+    "gaps": [],
+    "emerging_trends": []
+  },
+  "critical_analysis": {
+    "consistencies": [],
+    "contradictions": [],
+    "quality_assessment_summary": "",
+    "bias_considerations": []
+  },
+  "implications": {
+    "practice": [],
+    "policy": [],
+    "research": []
+  },
+  "deliverables": {
+    "formats": [
+      "narrative_summary",
+      "annotated_bibliography"
+    ],
+    "length": "",
+    "visual_support": [
+      "tables",
+      "concept_map"
+    ]
+  }
+}
